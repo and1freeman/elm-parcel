@@ -1,0 +1,6 @@
+.parcel-cache
+dist
+node_modules
+elm-stuff
+*.lock
+src/elm.js
